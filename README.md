@@ -11,22 +11,9 @@
   <br />  <br />
   
   <p align="center">
-    <img src="https://github.com/chokrihamza/KeySniffer-DOT-TRY-THIS-.git/Untitled_ Jan 14, 2023 9_14 AM.webm" alt="giff" >
-    <div class="video">
-  <video autoplay controls id="video_intro" poster="/img/loading-vid.png" width="640" height="360">
-    <source src="/video/intro.mp4" type="video/mp4" />
-    <source src="/video/intro.webm" type="video/webm" />
-    <object class="vid-object" type="application/x-shockwave-flash" data="/video/player.swf" width="640" height="360">
-      <param name="allowfullscreen" value="true">
-      <param name="allowscriptaccess" value="always">
-      <param name="flashvars" value="file=/video/intro.mp4&amp;autostart=true">
-      <param name="wmode" value="opaque">
-      <!--[if IE]><param name="movie" value="/video/player.swf"><![endif]-->
-      <img src="/img/logo.jpg" alt="LyondellBasell">
-      <p>Your browser can’t play HTML5 video. <a href="https://github.com/chokrihamza/KeySniffer-DOT-TRY-THIS-.git/Untitled_ Jan 14, 2023 9_14 AM.webm">
-  Download it</a> instead.</p>
-    </object>
-  </video>
+    <img src="https://github.com/chokrihamza/KeySniffer-DOT-TRY-THIS-.git/Untitled_ Jan 14, 2023 9_14 AM.gif" alt="giff" >
+
+
 </div><!-- /.video -->
     <br />
     <br />
