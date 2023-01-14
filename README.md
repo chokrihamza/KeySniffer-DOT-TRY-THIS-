@@ -1,7 +1,7 @@
 </br>
 
 
-## ✋  Attention
+## ✋  Attention ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 #### Dont try this the goal is only educational, I am not responsible for your actions.
 
 <!-- PROJECT -->
@@ -14,9 +14,9 @@
     <img src="https://user-images.githubusercontent.com/66112497/84585124-b6d75180-ade2-11ea-9aa3-e54248e9cae9.gif" alt="giff" >
     <br />
     <br />
-    <a href="https://github.com/lucioerlan/Keylogger/issues">Report Bug</a>
+    <a href="https://www.linkedin.com/in/hamza-chokri/">Report Bug</a>
     ·
-    <a href="https://github.com/lucioerlan/Keylogger/issues">Request Feature</a>
+    <a href="https://www.linkedin.com/in/hamza-chokri/">Request Feature</a>
   </p>
 </p>
 
@@ -40,7 +40,7 @@
 pip install -r requiriment.txt
 ```
 
-* cp .env.example .env, eg **Then**, Set up your Gmail email and password to get the evidences. 😎
+* cp .env.example .env, eg **Then**, Set up your Gmail email and password to get the evidences. 👓
 
 
 </br>
