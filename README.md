@@ -29,7 +29,7 @@
 
 <!-- SETUP -->
 
-## 🔥 Setup
+## 🔥 Setup 
 
 **`- Python 3+`**
 
